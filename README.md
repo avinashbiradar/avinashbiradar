@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @avinashbiradar
 - 👀 I’m interested in ... frontend technologies
-- 🌱 I’m currently learning ... fibebase auth
+- 🌱 I’m currently learning ... stencil.js
 - 💞️ I’m looking to collaborate on ... frontend technologies
 - 📫 How to reach me ... avinashbiradar179@gmail.com
 
