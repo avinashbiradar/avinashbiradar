@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **avinashbiradar179@gmail.com**
 
-- 📄 Know about my experiences [2.7 years](1.8 years)
+- 📄 Know about my experiences [2.7 years](2.7 years)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
