@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Avinash Biradar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **Stencil.js , DSA**
+- 🌱 I’m currently learning **DSA**
 
-- 💬 Ask me about **react , stencil.js**
+- 💬 Ask me about **react**
 
 - 📫 How to reach me **avinashbiradar179@gmail.com**
 
-- 📄 Know about my experiences [1.8 years](1.8 years)
+- 📄 Know about my experiences [2.7 years](1.8 years)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
